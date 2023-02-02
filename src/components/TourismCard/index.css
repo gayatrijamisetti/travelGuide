@@ -1,0 +1,21 @@
+.tourism-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  width: 38%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin: 20px;
+}
+
+.name {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 18px;
+  margin: 10px;
+}
+.description {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 14px;
+  margin: 10px;
+}
